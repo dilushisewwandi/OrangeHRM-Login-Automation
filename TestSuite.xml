@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Test Suite">
+    <test name="Test Cases">
+        <classes>
+            <class name="LoginTest"/>
+            <class name="ForgotPasswordTest"/>
+        </classes>
+    </test>
+</suite>
+
