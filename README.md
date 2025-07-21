@@ -2,12 +2,12 @@
 
 This project automates the **login** and **forgot password** functionalities of the OrangeHRM web application using:
 
-- 🔹 Selenium WebDriver  
-- 🔹 Java  
-- 🔹 TestNG  
-- 🔹 TestNG Suite for parallel execution  
-- 🔹 Assertions to verify expected behaviors  
-- 🔹 Emailable HTML report generation
+ 🔹 Selenium WebDriver  
+ 🔹 Java  
+ 🔹 TestNG  
+ 🔹 TestNG Suite for parallel execution  
+ 🔹 Assertions to verify expected behaviors  
+ 🔹 Emailable HTML report generation
 
 ## ✅ Test Scenarios Covered
 
